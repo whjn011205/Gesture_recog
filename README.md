@@ -7,3 +7,6 @@ contains the functions used for feature extraction
 
 # rf.py:
 Train the random forest classifier with extracted features and test the model with test image
+
+# Dataset
+Some sample image data
