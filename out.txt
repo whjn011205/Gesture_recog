@@ -1,0 +1,2452 @@
+u: [ 1065 15471 13409  1290  3896  8609  3463 11557 10515  3446 18645  7889
+  2718 12128 12995  7443 14851 17054   311  4020] 
+
+v: [ 1376 13972  1835 10789 17165  2830 11384  4697  2583 15337  6178  7468
+ 17367  1001  9940 15629  7969 14993   949 16068] 
+
+
+------------------Generating training data--------------
+
+ssf14--depth
+Gestures: ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y']
+1
+10
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+G
+H
+I
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+wave
+X
+Y
+
+ssf14-1-depth
+Gestures: ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y']
+1
+10
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+G
+H
+I
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+wave
+X
+Y
+
+ssf14-10-depth
+Gestures: ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y']
+1
+10
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+G
+H
+I
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+wave
+X
+Y
+
+ssf14-11-depth
+Gestures: ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y']
+1
+10
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+G
+H
+I
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+wave
+X
+Y
+
+ssf14-12-depth
+Gestures: ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y']
+1
+10
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+G
+H
+I
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+wave
+X
+Y
+
+ssf14-13-depth
+Gestures: ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y']
+1
+10
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+G
+H
+I
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+wave
+X
+Y
+
+ssf14-14-depth
+Gestures: ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y']
+1
+10
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+G
+H
+I
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+wave
+X
+Y
+
+ssf14-15-depth
+Gestures: ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y']
+1
+10
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+G
+H
+I
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+wave
+X
+Y
+
+ssf14-16-depth
+Gestures: ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y']
+1
+10
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+G
+H
+I
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+wave
+X
+Y
+
+ssf14-17-depth
+Gestures: ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y']
+1
+10
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+G
+H
+I
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+wave
+X
+Y
+
+ssf14-18-depth
+Gestures: ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y']
+1
+10
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+G
+H
+I
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+wave
+X
+Y
+
+ssf14-19-depth
+Gestures: ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y']
+1
+10
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+G
+H
+I
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+wave
+X
+Y
+
+ssf14-20-depth
+Gestures: ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y']
+1
+10
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+G
+H
+I
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+wave
+X
+Y
+
+ssf14-21-depth
+Gestures: ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y']
+1
+10
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+G
+H
+I
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+
+ssf14-22-depth
+Gestures: ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y']
+1
+10
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+G
+H
+I
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+wave
+X
+Y
+
+ssf14-23-depth
+Gestures: ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y']
+1
+10
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+G
+H
+I
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+wave
+X
+Y
+
+ssf14-24-depth
+Gestures: ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y']
+1
+10
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+G
+H
+I
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+wave
+X
+Y
+
+ssf14-25-depth
+Gestures: ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y']
+1
+10
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+G
+H
+I
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+wave
+X
+Y
+
+ssf14-26-depth
+Gestures: ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W']
+1
+10
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+G
+H
+I
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+
+ssf14-28-depth
+Gestures: ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y']
+1
+10
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+G
+H
+I
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+wave
+X
+Y
+
+ssf14-3-depth
+Gestures: ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y']
+1
+10
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+G
+H
+I
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+wave
+X
+Y
+
+ssf14-30-depth
+Gestures: ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y']
+1
+10
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+G
+H
+I
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+wave
+X
+Y
+
+ssf14-31-depth
+Gestures: ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N']
+1
+10
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+G
+H
+I
+K
+L
+M
+N
+
+ssf14-33-depth
+Gestures: ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y']
+1
+10
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+G
+H
+I
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+wave
+X
+Y
+
+ssf14-34-depth
+Gestures: ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y']
+1
+10
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+G
+H
+I
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+wave
+X
+Y
+
+ssf14-35-depth
+Gestures: ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y']
+1
+10
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+G
+H
+I
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+wave
+X
+Y
+
+ssf14-36-depth
+Gestures: ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y']
+1
+10
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+G
+H
+I
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+wave
+X
+Y
+
+ssf14-37-depth
+Gestures: ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y']
+1
+10
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+G
+H
+I
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+wave
+X
+Y
+
+ssf14-38-depth
+Gestures: ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y']
+1
+10
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+G
+H
+I
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+wave
+X
+Y
+
+ssf14-39-depth
+Gestures: ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y']
+1
+10
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+G
+H
+I
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+wave
+X
+Y
+
+ssf14-4-depth
+Gestures: ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y']
+1
+10
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+G
+H
+I
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+wave
+X
+Y
+
+ssf14-40-depth
+Gestures: ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y']
+1
+10
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+G
+H
+I
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+wave
+X
+Y
+
+ssf14-41-depth
+Gestures: ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y']
+1
+10
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+G
+H
+I
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+wave
+X
+Y
+
+ssf14-42-depth
+Gestures: ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y']
+1
+10
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+G
+H
+I
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+wave
+X
+Y
+
+ssf14-43-depth
+Gestures: ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y']
+1
+10
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+G
+H
+I
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+wave
+X
+Y
+
+ssf14-44-depth
+Gestures: ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y']
+1
+10
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+G
+H
+I
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+wave
+X
+Y
+
+ssf14-45-depth
+Gestures: ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y']
+1
+10
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+G
+H
+I
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+wave
+X
+Y
+
+ssf14-46-depth
+Gestures: ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y']
+1
+10
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+G
+H
+I
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+wave
+X
+Y
+
+ssf14-47-depth
+Gestures: ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y']
+1
+10
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+G
+H
+I
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+wave
+X
+Y
+
+ssf14-48-depth
+Gestures: ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y']
+1
+10
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+G
+H
+I
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+wave
+X
+Y
+
+ssf14-49-depth
+Gestures: ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y']
+1
+10
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+G
+H
+I
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+wave
+X
+Y
+
+ssf14-5-depth
+Gestures: ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y']
+1
+10
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+G
+H
+I
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+wave
+X
+Y
+
+ssf14-50-depth
+Gestures: ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y']
+1
+10
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+G
+H
+I
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+wave
+X
+Y
+
+ssf14-51-depth
+Gestures: ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y']
+1
+10
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+G
+H
+I
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+wave
+X
+Y
+
+ssf14-52-depth
+Gestures: ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y']
+1
+10
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+G
+H
+I
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+wave
+X
+Y
+
+ssf14-6-depth
+Gestures: ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y']
+1
+10
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+G
+H
+I
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+wave
+X
+Y
+
+ssf14-7-depth
+Gestures: ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y']
+1
+10
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+G
+H
+I
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+wave
+X
+Y
+
+ssf14-8-depth
+Gestures: ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y']
+1
+10
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+G
+H
+I
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+wave
+X
+Y
+
+ssf14-9-depth
+Gestures: ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y']
+1
+10
+2
+3
+4
+5
+6
+7
+8
+9
+A
+B
+C
+D
+E
+F
+G
+H
+I
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+wave
+X
+Y
+
+
+X_train: (153520, 4225)  Y_train: (153520,) 
+
+1:07:25.685781
+
+------------------Training---------------------
+
+0:10:54.669650
+
+----------------Predicting---------------------
+
+ssf14--depth:
+Gestures ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y'] 
+
+
+	X_test: (2590, 4225)  Y_test: (2590,)
+	accuracy1: 0.21
+	accuracy2: 0.25 66 259
+	most error rate: (4, 5) 7
+	most error rate: (10, 5) 6
+	most error rate: (3, 5) 6
+	most error rate: (9, 10) 5
+
+ssf14-1-depth:
+Gestures ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y'] 
+
+
+	X_test: (3330, 4225)  Y_test: (3330,)
+	accuracy1: 0.41
+	accuracy2: 0.47 155 333
+	most error rate: (27, 10) 7
+	most error rate: (21, 10) 7
+	most error rate: (22, 10) 7
+	most error rate: (24, 2) 6
+
+ssf14-10-depth:
+Gestures ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y'] 
+
+	X_test: (3160, 4225)  Y_test: (3160,)
+	accuracy1: 0.53
+	accuracy2: 0.61 193 316
+	most error rate: (29, 2) 6
+	most error rate: (13, 3) 5
+	most error rate: (17, 8) 4
+	most error rate: (11, 10) 4
+
+ssf14-11-depth:
+Gestures ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y'] 
+
+	X_test: (2550, 4225)  Y_test: (2550,)
+	accuracy1: 0.34
+	accuracy2: 0.36 93 255
+	most error rate: (6, 5) 5
+	most error rate: (29, 3) 4
+	most error rate: (19, 6) 4
+	most error rate: (10, 5) 4
+
+ssf14-12-depth:
+Gestures ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y'] 
+	X_test: (1880, 4225)  Y_test: (1880,)
+	accuracy1: 0.32
+	accuracy2: 0.38 72 188
+	most error rate: (2, 5) 5
+	most error rate: (8, 5) 4
+	most error rate: (17, 5) 4
+	most error rate: (29, 2) 4
+
+ssf14-13-depth:
+Gestures ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y'] 
+
+	X_test: (3160, 4225)  Y_test: (3160,)
+	accuracy1: 0.70
+	accuracy2: 0.77 244 316
+	most error rate: (25, 8) 4
+	most error rate: (21, 10) 4
+	most error rate: (24, 8) 3
+	most error rate: (4, 5) 3
+
+ssf14-14-depth:
+Gestures ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y'] 
+
+
+	X_test: (4360, 4225)  Y_test: (4360,)
+	accuracy1: 0.71
+	accuracy2: 0.75 329 436
+	most error rate: (24, 2) 12
+	most error rate: (13, 10) 6
+	most error rate: (4, 3) 5
+	most error rate: (17, 8) 4
+
+ssf14-15-depth:
+Gestures ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y'] 
+
+
+	X_test: (3670, 4225)  Y_test: (3670,)
+	accuracy1: 0.70
+	accuracy2: 0.73 268 367
+	most error rate: (27, 10) 5
+	most error rate: (4, 2) 5
+	most error rate: (23, 10) 3
+	most error rate: (22, 10) 3
+
+ssf14-16-depth:
+Gestures ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y'] 
+
+	X_test: (3660, 4225)  Y_test: (3660,)
+	accuracy1: 0.45
+	accuracy2: 0.55 203 366
+	most error rate: (22, 10) 7
+	most error rate: (8, 2) 6
+	most error rate: (7, 2) 5
+	most error rate: (29, 2) 5
+
+ssf14-17-depth:
+Gestures ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y'] 
+
+
+	X_test: (2850, 4225)  Y_test: (2850,)
+	accuracy1: 0.70
+	accuracy2: 0.74 210 285
+	most error rate: (21, 10) 5
+	most error rate: (4, 5) 4
+	most error rate: (11, 10) 3
+	most error rate: (22, 10) 3
+
+ssf14-18-depth:
+Gestures ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y'] 
+
+
+	X_test: (3140, 4225)  Y_test: (3140,)
+	accuracy1: 0.66
+	accuracy2: 0.70 221 314
+	most error rate: (23, 10) 7
+	most error rate: (22, 10) 6
+	most error rate: (17, 8) 5
+	most error rate: (21, 10) 5
+
+ssf14-19-depth:
+Gestures ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y'] 
+
+
+	X_test: (2900, 4225)  Y_test: (2900,)
+	accuracy1: 0.76
+	accuracy2: 0.80 231 290
+	most error rate: (24, 2) 4
+	most error rate: (18, 28) 3
+	most error rate: (25, 8) 3
+	most error rate: (22, 10) 3
+
+ssf14-20-depth:
+Gestures ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y'] 
+
+
+	X_test: (2500, 4225)  Y_test: (2500,)
+	accuracy1: 0.58
+	accuracy2: 0.64 161 250
+	most error rate: (11, 10) 4
+	most error rate: (27, 10) 4
+	most error rate: (22, 10) 4
+	most error rate: (29, 3) 3
+
+ssf14-21-depth:
+Gestures ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y'] 
+
+
+	X_test: (3770, 4225)  Y_test: (3770,)
+	accuracy1: 0.24
+	accuracy2: 0.25 95 377
+	most error rate: (6, 5) 16
+	most error rate: (4, 5) 13
+	most error rate: (8, 5) 11
+	most error rate: (3, 5) 11
+
+ssf14-22-depth:
+Gestures ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y'] 
+
+	X_test: (3140, 4225)  Y_test: (3140,)
+	accuracy1: 0.42
+	accuracy2: 0.45 142 314
+	most error rate: (21, 10) 8
+	most error rate: (22, 10) 8
+	most error rate: (27, 10) 6
+	most error rate: (15, 10) 6
+
+ssf14-23-depth:
+Gestures ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y'] 
+
+
+	X_test: (3140, 4225)  Y_test: (3140,)
+	accuracy1: 0.25
+	accuracy2: 0.30 94 314
+	most error rate: (3, 5) 11
+	most error rate: (4, 5) 10
+	most error rate: (13, 5) 9
+	most error rate: (12, 5) 8
+
+ssf14-24-depth:
+Gestures ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y'] 
+
+
+	X_test: (4490, 4225)  Y_test: (4490,)
+	accuracy1: 0.35
+	accuracy2: 0.40 178 449
+	most error rate: (21, 10) 12
+	most error rate: (27, 10) 11
+	most error rate: (22, 10) 10
+	most error rate: (7, 10) 7
+
+ssf14-25-depth:
+Gestures ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y'] 
+
+	X_test: (3950, 4225)  Y_test: (3950,)
+	accuracy1: 0.43
+	accuracy2: 0.48 191 395
+	most error rate: (22, 10) 10
+	most error rate: (15, 10) 9
+	most error rate: (21, 10) 8
+	most error rate: (11, 10) 8
+
+ssf14-26-depth:
+Gestures ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W'] 
+
+
+	X_test: (2280, 4225)  Y_test: (2280,)
+	accuracy1: 0.60
+	accuracy2: 0.66 150 228
+	most error rate: (4, 5) 5
+	most error rate: (25, 8) 3
+	most error rate: (19, 6) 3
+	most error rate: (29, 2) 3
+
+ssf14-28-depth:
+Gestures ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y'] 
+
+
+	X_test: (2340, 4225)  Y_test: (2340,)
+	accuracy1: 0.39
+	accuracy2: 0.45 106 234
+	most error rate: (22, 10) 6
+	most error rate: (23, 10) 5
+	most error rate: (27, 10) 5
+	most error rate: (11, 10) 4
+
+ssf14-3-depth:
+Gestures ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y'] 
+
+
+	X_test: (1740, 4225)  Y_test: (1740,)
+	accuracy1: 0.36
+	accuracy2: 0.45 78 174
+	most error rate: (21, 10) 6
+	most error rate: (27, 10) 5
+	most error rate: (17, 6) 4
+	most error rate: (22, 10) 4
+
+ssf14-30-depth:
+Gestures ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y'] 
+
+
+	X_test: (2940, 4225)  Y_test: (2940,)
+	accuracy1: 0.62
+	accuracy2: 0.69 204 294
+	most error rate: (17, 8) 5
+	most error rate: (22, 10) 5
+	most error rate: (19, 6) 5
+	most error rate: (29, 3) 4
+
+ssf14-31-depth:
+Gestures ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N'] 
+
+
+	X_test: (1580, 4225)  Y_test: (1580,)
+	accuracy1: 0.46
+	accuracy2: 0.50 79 158
+	most error rate: (15, 10) 6
+	most error rate: (21, 10) 6
+	most error rate: (8, 5) 6
+	most error rate: (22, 10) 6
+
+ssf14-33-depth:
+Gestures ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y'] 
+
+	X_test: (3020, 4225)  Y_test: (3020,)
+	accuracy1: 0.34
+	accuracy2: 0.36 109 302
+	most error rate: (28, 2) 6
+	most error rate: (18, 2) 6
+	most error rate: (25, 2) 6
+	most error rate: (3, 2) 5
+
+ssf14-34-depth:
+Gestures ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y'] 
+	X_test: (2650, 4225)  Y_test: (2650,)
+	accuracy1: 0.45
+	accuracy2: 0.50 133 265
+	most error rate: (21, 10) 6
+	most error rate: (22, 10) 4
+	most error rate: (29, 3) 4
+	most error rate: (4, 5) 4
+
+ssf14-35-depth:
+Gestures ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y'] 
+
+
+	X_test: (2210, 4225)  Y_test: (2210,)
+	accuracy1: 0.26
+	accuracy2: 0.28 62 221
+	most error rate: (10, 5) 7
+	most error rate: (6, 5) 5
+	most error rate: (4, 3) 5
+	most error rate: (20, 3) 4
+
+ssf14-36-depth:
+Gestures ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y'] 
+
+	X_test: (2930, 4225)  Y_test: (2930,)
+	accuracy1: 0.49
+	accuracy2: 0.54 159 293
+	most error rate: (11, 10) 4
+	most error rate: (19, 10) 4
+	most error rate: (9, 10) 4
+	most error rate: (3, 5) 4
+
+ssf14-37-depth:
+Gestures ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y'] 
+
+	X_test: (2950, 4225)  Y_test: (2950,)
+	accuracy1: 0.52
+	accuracy2: 0.59 175 295
+	most error rate: (27, 10) 5
+	most error rate: (22, 10) 5
+	most error rate: (4, 5) 5
+	most error rate: (11, 10) 4
+
+ssf14-38-depth:
+Gestures ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y'] 
+
+
+	X_test: (2760, 4225)  Y_test: (2760,)
+	accuracy1: 0.62
+	accuracy2: 0.67 186 276
+	most error rate: (22, 10) 7
+	most error rate: (21, 10) 6
+	most error rate: (27, 10) 5
+	most error rate: (25, 1) 4
+
+ssf14-39-depth:
+Gestures ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y'] 
+
+
+	X_test: (1960, 4225)  Y_test: (1960,)
+	accuracy1: 0.64
+	accuracy2: 0.68 133 196
+	most error rate: (4, 5) 5
+	most error rate: (18, 28) 4
+	most error rate: (21, 10) 3
+	most error rate: (27, 10) 3
+
+ssf14-4-depth:
+Gestures ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y'] 
+
+
+	X_test: (3480, 4225)  Y_test: (3480,)
+	accuracy1: 0.43
+	accuracy2: 0.48 168 348
+	most error rate: (28, 18) 6
+	most error rate: (3, 2) 6
+	most error rate: (11, 10) 6
+	most error rate: (29, 3) 5
+
+ssf14-40-depth:
+Gestures ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y'] 
+
+	X_test: (2090, 4225)  Y_test: (2090,)
+	accuracy1: 0.56
+	accuracy2: 0.61 127 209
+	most error rate: (22, 10) 6
+	most error rate: (21, 10) 6
+	most error rate: (27, 10) 5
+	most error rate: (25, 1) 3
+
+ssf14-41-depth:
+Gestures ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y'] 
+
+	X_test: (2550, 4225)  Y_test: (2550,)
+	accuracy1: 0.38
+	accuracy2: 0.45 115 255
+	most error rate: (11, 10) 6
+	most error rate: (23, 10) 6
+	most error rate: (15, 7) 6
+	most error rate: (21, 10) 6
+
+ssf14-42-depth:
+Gestures ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y'] 
+
+	X_test: (2990, 4225)  Y_test: (2990,)
+	accuracy1: 0.72
+	accuracy2: 0.78 234 299
+	most error rate: (25, 1) 5
+	most error rate: (21, 10) 4
+	most error rate: (27, 10) 4
+	most error rate: (29, 3) 3
+
+ssf14-43-depth:
+Gestures ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y'] 
+
+	X_test: (2450, 4225)  Y_test: (2450,)
+	accuracy1: 0.69
+	accuracy2: 0.73 179 245
+	most error rate: (24, 2) 5
+	most error rate: (18, 28) 4
+	most error rate: (27, 10) 4
+	most error rate: (11, 10) 3
+
+ssf14-44-depth:
+Gestures ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y'] 
+
+
+	X_test: (2790, 4225)  Y_test: (2790,)
+	accuracy1: 0.63
+	accuracy2: 0.69 192 279
+	most error rate: (22, 10) 5
+	most error rate: (27, 10) 4
+	most error rate: (24, 2) 4
+	most error rate: (17, 8) 3
+
+ssf14-45-depth:
+Gestures ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y'] 
+
+
+	X_test: (3880, 4225)  Y_test: (3880,)
+	accuracy1: 0.77
+	accuracy2: 0.83 321 388
+	most error rate: (11, 10) 5
+	most error rate: (17, 9) 4
+	most error rate: (21, 10) 3
+	most error rate: (27, 10) 3
+
+ssf14-46-depth:
+Gestures ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y'] 
+
+
+	X_test: (3370, 4225)  Y_test: (3370,)
+	accuracy1: 0.69
+	accuracy2: 0.76 255 337
+	most error rate: (22, 10) 8
+	most error rate: (24, 8) 5
+	most error rate: (27, 10) 5
+	most error rate: (15, 13) 3
+
+ssf14-47-depth:
+Gestures ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y'] 
+
+
+	X_test: (2530, 4225)  Y_test: (2530,)
+	accuracy1: 0.74
+	accuracy2: 0.80 202 253
+	most error rate: (24, 1) 5
+	most error rate: (25, 1) 4
+	most error rate: (8, 20) 3
+	most error rate: (21, 10) 3
+
+ssf14-48-depth:
+Gestures ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y'] 
+
+
+	X_test: (4520, 4225)  Y_test: (4520,)
+	accuracy1: 0.70
+	accuracy2: 0.78 351 452
+	most error rate: (4, 3) 7
+	most error rate: (23, 10) 6
+	most error rate: (17, 10) 6
+	most error rate: (13, 10) 5
+
+ssf14-49-depth:
+Gestures ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y'] 
+
+
+	X_test: (3520, 4225)  Y_test: (3520,)
+	accuracy1: 0.71
+	accuracy2: 0.76 266 352
+	most error rate: (21, 10) 8
+	most error rate: (22, 10) 7
+	most error rate: (11, 10) 4
+	most error rate: (27, 10) 4
+
+ssf14-5-depth:
+Gestures ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y'] 
+	X_test: (2420, 4225)  Y_test: (2420,)
+	accuracy1: 0.41
+	accuracy2: 0.48 117 242
+	most error rate: (12, 3) 5
+	most error rate: (3, 2) 5
+	most error rate: (24, 2) 5
+	most error rate: (21, 10) 5
+
+ssf14-50-depth:
+Gestures ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y'] 
+
+	X_test: (3120, 4225)  Y_test: (3120,)
+	accuracy1: 0.51
+	accuracy2: 0.60 188 312
+	most error rate: (11, 10) 5
+	most error rate: (20, 2) 4
+	most error rate: (21, 10) 4
+	most error rate: (5, 7) 3
+
+ssf14-51-depth:
+Gestures ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y'] 
+
+
+	X_test: (3620, 4225)  Y_test: (3620,)
+	accuracy1: 0.44
+	accuracy2: 0.50 182 362
+	most error rate: (23, 10) 8
+	most error rate: (27, 10) 7
+	most error rate: (21, 10) 6
+	most error rate: (22, 10) 6
+
+ssf14-52-depth:
+Gestures ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y'] 
+
+	X_test: (3360, 4225)  Y_test: (3360,)
+	accuracy1: 0.80
+	accuracy2: 0.82 276 336
+	most error rate: (22, 10) 4
+	most error rate: (29, 2) 4
+	most error rate: (27, 10) 3
+	most error rate: (21, 10) 3
+
+ssf14-6-depth:
+Gestures ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y'] 
+
+
+	X_test: (2950, 4225)  Y_test: (2950,)
+	accuracy1: 0.27
+	accuracy2: 0.33 96 295
+	most error rate: (12, 3) 5
+	most error rate: (21, 10) 5
+	most error rate: (4, 5) 4
+	most error rate: (21, 15) 4
+
+ssf14-7-depth:
+Gestures ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y'] 
+
+
+	X_test: (2970, 4225)  Y_test: (2970,)
+	accuracy1: 0.39
+	accuracy2: 0.45 135 297
+	most error rate: (22, 10) 8
+	most error rate: (21, 10) 7
+	most error rate: (4, 5) 7
+	most error rate: (28, 18) 4
+
+ssf14-8-depth:
+Gestures ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y'] 
+
+
+	X_test: (2480, 4225)  Y_test: (2480,)
+	accuracy1: 0.43
+	accuracy2: 0.50 124 248
+	most error rate: (8, 5) 7
+	most error rate: (18, 3) 6
+	most error rate: (27, 13) 5
+	most error rate: (28, 18) 4
+
+ssf14-9-depth:
+Gestures ['1', '10', '2', '3', '4', '5', '6', '7', '8', '9', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'wave', 'X', 'Y'] 
+
+
+	X_test: (2870, 4225)  Y_test: (2870,)
+	accuracy1: 0.65
+	accuracy2: 0.73 209 287
+	most error rate: (7, 10) 4
+	most error rate: (21, 10) 4
+	most error rate: (17, 8) 3
+	most error rate: (27, 10) 3
+
+
+overall: accuracy: 0.58 8457 14556
+most error rate: (22, 10) 194
+most error rate: (21, 10) 186
+most error rate: (27, 10) 162
+most error rate: (4, 5) 145
+most error rate: (11, 10) 131
+most error rate: (24, 2) 111
+most error rate: (23, 10) 109
+most error rate: (15, 10) 90
+most error rate: (29, 3) 89
+most error rate: (29, 2) 89
+most error rate: (3, 5) 86
+
+
+0:10:13.205800
+
+
+

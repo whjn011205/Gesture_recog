@@ -1,10 +1,12 @@
+""" Define functions to extract feature from raw gesture image data"""
+
 import os
 import cv2
 import numpy as np
 from numba import jit
 
 
-
+## Detect hand patch of original image
 def patchDetection(img):
     if img is None:
         return None
@@ -19,6 +21,7 @@ def patchDetection(img):
                 output[i,j] = img[i,j]
     return output
 
+## Crop the hand patch from the original image
 def crop(path,sub,gesture,title):
     pixels = cv2.imread(path+sub+'//'+gesture+'//'+title+".jpg",cv2.IMREAD_GRAYSCALE)
     # crop the hand area
@@ -39,6 +42,7 @@ def crop(path,sub,gesture,title):
     pixelsCropped =pixels[rowstart:rowend,colstart:colend]
     return pixelsCropped
 
+## Get feature data for a single pixel in the image
 @jit(nopython=True)
 def featureExtractor(img,r,c,u0,v0):
     """
@@ -61,10 +65,12 @@ def featureExtractor(img,r,c,u0,v0):
     v0_norm = int(round(v0[0]/depth))
     v1_norm = int(round(v0[1]/depth))
     
+    ## Formulas to generate feature from crop hand patch
     pos1_r = r+u0_norm
     pos1_r = pos1_r % rowMax
     pos1_c = c+u1_norm
     pos1_c = pos1_c % colMax
+
     pos2_r = r+v0_norm
     pos2_r = pos2_r % rowMax
     pos2_c = c+v1_norm
@@ -75,6 +81,7 @@ def featureExtractor(img,r,c,u0,v0):
 
     return a-b
 
+## Genereate feature data for the entire image
 @jit
 def getFeatures(path,sub, title,gesture,u,v):
     img = crop(path,sub,gesture,title)
